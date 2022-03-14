@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to Basic Calculator *-*");
-        // İşlemler için kullancağımız değişken
+        // İşlemler için kullanacağımız değişken
         int calc;
         
         // Kullanıcıdan veri alma
