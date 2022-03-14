@@ -5,20 +5,23 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to Basic Calculator *-*");
+        // İşlemler için kullancağımız değişken
         int calc;
-
+        
+        // Kullanıcıdan veri alma
         System.out.print("Enter a number: ");
         int numberf = scanner.nextInt();
         System.out.print("Enter a number: ");
         int numbers = scanner.nextInt();
         scanner.nextLine();
-
+    
+        // Ekranda gözükecek olan işlemler
         String secim = "1. Toplama\n"
                 + "2. Çıkarma\n"
                 + "3. Çarpma\n"
                 + "4. Bölme\n";
         System.out.println(secim);
-
+        
         System.out.print("Bir işlem seçiniz: ");
         String islem = scanner.nextLine();
 
