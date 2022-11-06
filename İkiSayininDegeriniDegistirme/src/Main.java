@@ -33,8 +33,8 @@ public class Main {
                 break;
             }
             // Kullanıcı son sorulan soruda h değerini girdiyse
+
             else if (islem.equals("h")){
-                System.out.println("Anlaşılan bir sorun var hemen düzeltiyorum....");
 
                 /* Kullanıcıdan girilen ilk sayının int veri tipindeki second adındaki değişkenin olup olmadığı soruluyor
                 Burada önemli olan durum biz first ve second adında kullanıcıdan aldığımız değerleri değiştirmiştik.
