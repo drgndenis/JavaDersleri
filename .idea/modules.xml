@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" filepath="$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BedenKitleIndexi/BedenKitleIndexi.iml" filepath="$PROJECT_DIR$/BedenKitleIndexi/BedenKitleIndexi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarpimTablosu/CarpimTablosu.iml" filepath="$PROJECT_DIR$/CarpimTablosu/CarpimTablosu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DongulerleATMProjesi/DongulerleATMProjesi.iml" filepath="$PROJECT_DIR$/DongulerleATMProjesi/DongulerleATMProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnBuyukSayiyiBulma/EnBuyukSayiyiBulma.iml" filepath="$PROJECT_DIR$/EnBuyukSayiyiBulma/EnBuyukSayiyiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaizProgrami/FaizProgrami.iml" filepath="$PROJECT_DIR$/FaizProgrami/FaizProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HipotenusBulma/HipotenusBulma.iml" filepath="$PROJECT_DIR$/HipotenusBulma/HipotenusBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDersleri.iml" filepath="$PROJECT_DIR$/.idea/JavaDersleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KosullarlaBedenKitleIndeksi/KosullarlaBedenKitleIndeksi.iml" filepath="$PROJECT_DIR$/KosullarlaBedenKitleIndeksi/KosullarlaBedenKitleIndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KullaniciGirisProgrami/KullaniciGirisProgrami.iml" filepath="$PROJECT_DIR$/KullaniciGirisProgrami/KullaniciGirisProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetotlardaOverloading/MetotlardaOverloading.iml" filepath="$PROJECT_DIR$/MetotlardaOverloading/MetotlardaOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" filepath="$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YakitTutari/YakitTutari.iml" filepath="$PROJECT_DIR$/YakitTutari/YakitTutari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/İkiSayininDegeriniDegistirme/İkiSayininDegeriniDegistirme.iml" filepath="$PROJECT_DIR$/İkiSayininDegeriniDegistirme/İkiSayininDegeriniDegistirme.iml" />
+    </modules>
+  </component>
+</project>
